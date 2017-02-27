@@ -1,0 +1,1 @@
+print('/func'.split('/')[1])
